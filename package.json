@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build-gh": "ng build --prod --baseHref=\"https://eviloutpost.github.io/neoevil/\"",
     "lint": "ng lint"
   },
   "private": true,
